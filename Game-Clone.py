@@ -290,5 +290,5 @@ def rcrack(uid,pwx,tl):
         sys.stdout.flush()
     except:
         pass
-MD_Muntasir_Maruf()
+MD_Muntasir_Maruf
 
